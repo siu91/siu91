@@ -15,7 +15,7 @@
 - :ledger: Some notes:
   - [lwpoc](https://siu91.github.io/lwpoc-docs): datalake dataware-house poc notes
   - [cicd](https://siu91.github.io/cicd-docs): CI usage notes
-- :smile_cat: Javaer & Love Rust
+- :smile_cat: JavaER & Love Rust
 
 <br />
 
