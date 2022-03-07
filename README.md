@@ -1,7 +1,7 @@
 ### Hi I'm Siu 🇨🇳  👋
 
 - 🔭 I’m currently working on Realtime Dataware-house use Doris/TiDB
-- 🌱 I’m currently learning  `RUST` <a href="https://www.rust-lang.org"><img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" align="center"  width="2%" /></a>
+- 🌱 I’m currently learning  `Rust` <a href="https://www.rust-lang.org"><img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" align="center"  width="2%" /></a>
 - 📫 How to reach me: gshiwen@gmail.com
 
 
