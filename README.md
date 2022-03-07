@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### ❤️ Code & Opensource
 
-- 📖 [《Learn Rust the hard way》](https://github.com/siu91/learn-rust-the-hard-way)
+- 📖 [《Learn Rust the hard way》](https://github.com/siu91/LearnRustTheHardWay)
 - :loop: Some code：
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
