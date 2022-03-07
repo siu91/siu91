@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi I'm Siu 🇨🇳  👋
 
-<!--
-**siu91/siu91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Realtime Dataware-house use Doris/TiDB
+- 🌱 I’m currently learning  `RUST` <a href="https://www.rust-lang.org"><img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" align="center"  width="2%" /></a>
+- 📫 How to reach me: gshiwen@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ❤️ Code & Opensource
+
+- 📖 [《Learn Rust the hard way》](https://github.com/siu91/learn-rust-the-hard-way)
+- :loop: Some code：
+  - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
+  - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
+- :ledger: Some notes:
+  - [lwpoc](https://github.com/siu91/lwpoc-docs): datalake dataware-house poc notes
+  - [cicd](https://github.com/siu91/cicd-docs): CI usage notes
+- :smile_cat: Javaer & Love Rust
+
+<br />
+
+[![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/siu91/siu91/mai n/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+[![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
