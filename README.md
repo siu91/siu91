@@ -13,8 +13,8 @@
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
 - :ledger: Some notes:
-  - [lwpoc](https://github.com/siu91/lwpoc-docs): datalake dataware-house poc notes
-  - [cicd](https://github.com/siu91/cicd-docs): CI usage notes
+  - [lwpoc](https://siu91.github.io/lwpoc-docs): datalake dataware-house poc notes
+  - [cicd](https://siu91.github.io/cicd-docs): CI usage notes
 - :smile_cat: Javaer & Love Rust
 
 <br />
