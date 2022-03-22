@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
 <p align="middle">
    <a href="https://www.zhihu.com/people/siu91">
@@ -45,6 +44,8 @@ Here are some ideas to get you started:
   - [lwpoc](https://siu91.github.io/lwpoc-docs): datalake dataware-house poc notes
   - [cicd](https://siu91.github.io/cicd-docs): CI usage notes
 - :smile_cat: Java-er :hotsprings: & Love Rust & Love RSS
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
 <br />
 
