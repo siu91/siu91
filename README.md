@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
 <p align="middle">
    <a href="https://www.zhihu.com/people/siu91">
@@ -26,8 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Realtime Dataware-house use Doris/TiDB
 - 🌱 I’m currently learning  `Rust` <a href="https://www.rust-lang.org"><img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" align="center"  width="2%" /></a>
