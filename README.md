@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - [cicd](https://siu91.github.io/cicd-docs): CI usage notes
 - :smile_cat: Java-er :hotsprings: & Love Rust & Love RSS
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,markdown,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
 <br />
 
