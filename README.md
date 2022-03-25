@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - :ledger: Some notes or best practices：
   - [Real-time Data Warehouse](https://siu91.github.io/notebook/tech/project/lwpoc/lwpoc/%E6%9E%B6%E6%9E%84/%E6%9E%84%E5%BB%BA%E5%AE%9E%E6%97%B6%E6%B9%96%E4%BB%93.html): datalake data-warehouse poc notes
   - [cicd](https://siu91.github.io/notebook/tech/project/cicd/index.html): CI usage notes
-  - [PostgreSQL HA](): pg_auto_failover arch,usage and testing
+  - [PostgreSQL HA](https://siu91.github.io/notebook/tech/project/PGHA/pg-ha-solution.html): pg_auto_failover arch,usage and testing
   - [Design and analysis of SQL performance testing tools](https://siu91.github.io/notebook/tech/bestpractices/sql%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E7%9A%84%E8%AE%BE%E8%AE%A1.html)
   - [Doris Remote-UDF development and testing](https://siu91.github.io/notebook/tech/bestpractices/jrudf/doris-remote-udf.html):  [jrudf](https://github.com/siu91/jrudf)
   - [Flyway  Usage Guide](https://siu91.github.io/notebook/tech/bestpractices/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%87%AA%E5%8A%A8%E5%8C%96-Flyway%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83.html): flyway best practices
