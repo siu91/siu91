@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### ❤️ Code & Opensource
 
-- 📖 [《Learn Rust the hard way》](https://siu91.github.io/LearnRustTheHardWay/)
+- 📖 [Learn Rust the hard way](https://siu91.github.io/LearnRustTheHardWay/)
 - :loop: Some code：
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
@@ -58,4 +58,6 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--
 [![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/siu91/siu91/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
