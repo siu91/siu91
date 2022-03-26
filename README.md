@@ -37,10 +37,15 @@ Here are some ideas to get you started:
 ### ❤️ Code & Opensource
 
 - 📖 [Learn Rust the hard way](https://siu91.github.io/LearnRustTheHardWay/)
+
 - :loop: Some code：
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
+  
 - :ledger: Some notes or best practices：
+  
+  - [Java Backend Framework Selection Guide(to be done)](https://siu91.github.io/notebook/tech/backend/Java-Backend-Framework-Selection-Guide.html)
+  
   - [Real-time Data Warehouse](https://siu91.github.io/notebook/tech/project/lwpoc/lwpoc/%E6%9E%B6%E6%9E%84/%E6%9E%84%E5%BB%BA%E5%AE%9E%E6%97%B6%E6%B9%96%E4%BB%93.html): datalake data-warehouse poc notes
   - [cicd](https://siu91.github.io/notebook/tech/project/cicd/index.html): CI usage notes
   - [PostgreSQL HA](https://siu91.github.io/notebook/tech/project/PGHA/pg-ha-solution.html): pg_auto_failover arch,usage and testing
@@ -50,6 +55,7 @@ Here are some ideas to get you started:
   - [Semver2.0 practice](https://siu91.github.io/notebook/tech/bestpractices/%E8%AF%AD%E4%B9%89%E5%8C%96%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E8%A7%84%E8%8C%83.html)
   - [Restful API Design Guidelines](https://siu91.github.io/notebook/tech/bestpractices/API%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.html)
   - [How to Code Review](https://siu91.github.io/notebook/tech/bestpractices/code-review-guide-baseon-gitlab.html)
+  
 - :smile_cat: Java-er :hotsprings: & Love Rust & Love RSS
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,markdown,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
