@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### ❤️ Code & Opensource
 
 - 📖 [Learn Rust the hard way](https://siu91.github.io/LearnRustTheHardWay/)
-- :loop: Some code：
+- :loop: Some code：；
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
 - :ledger: Some notes or best practices：
@@ -52,8 +52,6 @@ Here are some ideas to get you started:
   - [Restful API Design Guidelines](https://siu91.github.io/notebook/tech/bestpractices/API%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.html)
   - [How to Code Review](https://siu91.github.io/notebook/tech/bestpractices/code-review-guide-baseon-gitlab.html)
 - :smile_cat: Java-er :hotsprings: & Love Rust & Love RSS
-
-​	<br />
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,rust,python,idea,git,markdown,docker,kubernetes,jenkins&theme=light)](https://skillicons.dev)
 
