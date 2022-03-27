@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Realtime Dataware-house use Doris/TiDB
+- 🔭 I’m currently working on real-time data warehouse use Doris/TiDB
 - 🌱 I’m currently learning  `Rust` <a href="https://www.rust-lang.org"><img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" align="center"  width="2%" /></a>
 - 📫 How to reach me: gshiwen@gmail.com
 - :performing_arts: Interest：RSS :basketball: :mahjong:
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
 - :ledger: Some notes or best practices：
+  - [Share my list of software tools](https://siu91.github.io/notebook/tech/bestpractices/my-toolchain.html)
   - [Java Backend Framework Selection Guide(to be done)](https://siu91.github.io/notebook/tech/backend/Java-Backend-Framework-Selection-Guide.html)
   - [Real-time Data Warehouse](https://siu91.github.io/notebook/tech/project/lwpoc/lwpoc/%E6%9E%B6%E6%9E%84/%E6%9E%84%E5%BB%BA%E5%AE%9E%E6%97%B6%E6%B9%96%E4%BB%93.html): datalake data-warehouse poc notes
   - [cicd](https://siu91.github.io/notebook/tech/project/cicd/index.html): CI usage notes
