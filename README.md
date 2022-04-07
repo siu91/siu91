@@ -32,11 +32,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gshiwen@gmail.com
 - :performing_arts: Interest：RSS :basketball: :mahjong:
 
-
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 ### ❤️ Code & Opensource
 
-- 📖 [Learn Rust the hard way](https://siu91.github.io/LearnRustTheHardWay/)
+- 📖 [Java Development Manual(doing)](https://siu91.github.io/java-development-manual//about.html)
+- 📖 [Learn Rust the hard way(doing)](https://siu91.github.io/LearnRustTheHardWay/)
 - :loop: Some code：
   - [myboot](https://github.com/siu91/myboot) : some SpringBoot demo/scaffold
   - [rukawa](https://github.com/siu91/rukawa): a simple dynamic routing datasource lib 
