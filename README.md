@@ -26,7 +26,7 @@
   - [myboot](https://github.com/siu91/myboot) : SpringBoot 脚手架
   - [rukawa](https://github.com/siu91/rukawa): 一个简单的动态数据源库（Java）
 - :ledger: Some notes or best practices：
-  - [Application Architecture Archetype](https://github.com/siu91/AAA)：应用架构原型，DDD、CRQS、COLA 的一些实践
+  - [Application Architecture Archetype](https://github.com/siu91/AAA)：应用架构原型，DDD、CQRS、COLA 的一些实践
   - [Share my list of software tools](https://siu91.github.io/notebook/tech/bestpractices/my-toolchain.html)
   - [Java 后端选型指北(to be done)](https://siu91.github.io/notebook/tech/backend/Java-Backend-Framework-Selection-Guide.html)
   - [Real-time Data Warehouse](https://siu91.github.io/notebook/tech/project/lwpoc/lwpoc/%E6%9E%B6%E6%9E%84/%E6%9E%84%E5%BB%BA%E5%AE%9E%E6%97%B6%E6%B9%96%E4%BB%93.html): 实时数仓 POC 
